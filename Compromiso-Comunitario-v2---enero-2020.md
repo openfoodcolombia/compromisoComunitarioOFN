@@ -1,6 +1,10 @@
 # Compromiso Comunitario Global Open Food Network 
 Version 2.0 - 1 Agosto 2019
 
+Traducción libre
+
+Documento original: https://community.openfoodnetwork.org/t/community-pledge-v2-january-2020/1847
+
 ## 1. Propósito de la comunidad Open Food Network
 
 Open Food Network (OFN) es una red global de personas y organizaciones que trabajan juntas en el desarrollo de recursos abiertos y compartidos, conocimientos e infraestructura para apoyar el surgimiento y desarrollo de empresas alimentarias y cadenas de suministro cortas en todo el mundo. Creemos que para construir un sistema alimentario sostenible y resiliente, necesitamos **reconectar** productores y consumidores, por lo que nuestro objetivo es empoderar a las personas y las comunidades y brindarles las herramientas y el conocimiento para desarrollar los centros de alimentos que necesitan para su comunidad. El compromiso comunitario de Open Food Network puede ser firmado por cualquier organización que esté dispuesta a desarrollar conjuntamente la Open Food Network Commons y hacerla prosperar.
